@@ -1,6 +1,6 @@
 # Code Assist
 
-Rosie's repo to share helpful code snippets. You can contact them via Discord if you'd like.
+Rosier's repo to share helpful code snippets. You can contact them via Discord if you'd like.
 
 ## List of Snippets by Folder
 
